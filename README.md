@@ -4,4 +4,4 @@ NPM     : 2106630473
 
 Kelas   : C
 
-Hobi    : Tidur
+Hobi    : Main game
